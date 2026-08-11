@@ -51,7 +51,9 @@ Minha curiosidade por computadores começou ainda na infância, através dos jog
 </a>
 </p>
 
----
+--
+
+<img src="https://media.istockphoto.com/id/1730208257/pt/foto/interior-of-a-modern-recording-studio.jpg?s=612x612&w=0&k=20&c=Efkaym5t9DDwQfVLeR9c5O5GUt7s8UC4KkORktTjnB0="/>
 
 > *"A melhor forma de prever o futuro é construí-lo."* 🚀
 
